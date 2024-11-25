@@ -1,0 +1,11 @@
+flask
+flask-cors
+PyPDF2
+pytesseract
+pandas
+scikit-learn
+Pillow
+pdf2image
+pandas
+matplotlib
+numpy
